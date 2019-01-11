@@ -1,7 +1,7 @@
-# t4l0b_a6
+CPSC 340 Machine Learning Mini Project WT2 2018
 
-CPSC 340
+The jupyter notebook and python code used for a mini project in CPSC 340 taken from January 2018 - April 2018
 
 Final test error: 0.1833
 
-[Main report](doc/a6.ipynb)# CPSC-340-Mini-Project
+
